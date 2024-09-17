@@ -5,7 +5,7 @@ The package package_name is used to:
 	- 
 	-
 
-## Installation
+## Instalação
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
@@ -13,15 +13,15 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 pip install package_name
 ```
 
-## Usage
+## Uso
 
 ```python
 from package_name.module1_name import file1_name
 file1_name.my_function()
 ```
 
-## Author
+## Autor
 My_name
 
-## License
+## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
